@@ -1,2 +1,14 @@
 # play8-zhibo8-pages
-HTML page archive and documentation
+
+独立页面发布说明
+
+这里集中保存独立页面文件，便于按仓库查看发布记录。
+
+## 文件说明
+
+- `README.md`：仓库说明
+- `*.html`：发布后的独立页面
+
+## 访问状态
+
+如果 Pages 暂未生效，可稍后重试或查看仓库中的 HTML 文件。
